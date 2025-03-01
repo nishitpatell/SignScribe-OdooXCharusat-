@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547169101405",
+    "project_id": "isl-to-text-13",
+    "storage_bucket": "isl-to-text-13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547169101405:android:e1003ba9702ff557f94fb4",
+        "android_client_info": {
+          "package_name": "com.example.sign_scribe_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU6anbSb5KAiswsLeL2RSrycnRbH_wkfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
